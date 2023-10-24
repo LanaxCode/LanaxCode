@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on sharpening my skills in: <br>Building responsive and accessible web applications with HTML, CSS, and JavaScript | React.<br>👯 I’m looking to collaborate on web development projects that combine functionality with exceptional design.<br>🌱 I’m currently learning node.js | express.js, mongoDB<br>💬 Feel free to ask me about creating visually appealing and accessible forms using CSS. I can help you design forms that are easy to use and visually engaging.
+🔭 I’m currently working on sharpening my skills in: <br>Building responsive and accessible web applications with HTML, CSS, and JavaScript | React.<br>👯 I’m looking to collaborate on web development projects that combine functionality with exceptional design.<br>🌱 I’m currently learning node.js | express.js, mongoDB <br>💬 Feel free to ask me about creating visually appealing and accessible forms using CSS. I can help you design forms that are easy to use and visually engaging.
 
 
 ## 🌐 Socials:
